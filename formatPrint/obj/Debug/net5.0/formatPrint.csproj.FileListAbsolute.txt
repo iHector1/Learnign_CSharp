@@ -1,0 +1,16 @@
+F:\c#\formatPrint\obj\Debug\net5.0\formatPrint.csproj.AssemblyReference.cache
+F:\c#\formatPrint\obj\Debug\net5.0\formatPrint.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#\formatPrint\obj\Debug\net5.0\formatPrint.AssemblyInfoInputs.cache
+F:\c#\formatPrint\obj\Debug\net5.0\formatPrint.AssemblyInfo.cs
+F:\c#\formatPrint\obj\Debug\net5.0\formatPrint.csproj.CoreCompileInputs.cache
+F:\c#\formatPrint\bin\Debug\net5.0\formatPrint.exe
+F:\c#\formatPrint\bin\Debug\net5.0\formatPrint.deps.json
+F:\c#\formatPrint\bin\Debug\net5.0\formatPrint.runtimeconfig.json
+F:\c#\formatPrint\bin\Debug\net5.0\formatPrint.runtimeconfig.dev.json
+F:\c#\formatPrint\bin\Debug\net5.0\formatPrint.dll
+F:\c#\formatPrint\bin\Debug\net5.0\ref\formatPrint.dll
+F:\c#\formatPrint\bin\Debug\net5.0\formatPrint.pdb
+F:\c#\formatPrint\obj\Debug\net5.0\formatPrint.dll
+F:\c#\formatPrint\obj\Debug\net5.0\ref\formatPrint.dll
+F:\c#\formatPrint\obj\Debug\net5.0\formatPrint.pdb
+F:\c#\formatPrint\obj\Debug\net5.0\formatPrint.genruntimeconfig.cache
