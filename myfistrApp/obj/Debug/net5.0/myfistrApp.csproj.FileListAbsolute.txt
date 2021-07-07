@@ -1,0 +1,16 @@
+F:\c#\myfistrApp\bin\Debug\net5.0\myfistrApp.exe
+F:\c#\myfistrApp\bin\Debug\net5.0\myfistrApp.deps.json
+F:\c#\myfistrApp\bin\Debug\net5.0\myfistrApp.runtimeconfig.json
+F:\c#\myfistrApp\bin\Debug\net5.0\myfistrApp.runtimeconfig.dev.json
+F:\c#\myfistrApp\bin\Debug\net5.0\myfistrApp.dll
+F:\c#\myfistrApp\bin\Debug\net5.0\ref\myfistrApp.dll
+F:\c#\myfistrApp\bin\Debug\net5.0\myfistrApp.pdb
+F:\c#\myfistrApp\obj\Debug\net5.0\myfistrApp.csproj.AssemblyReference.cache
+F:\c#\myfistrApp\obj\Debug\net5.0\myfistrApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#\myfistrApp\obj\Debug\net5.0\myfistrApp.AssemblyInfoInputs.cache
+F:\c#\myfistrApp\obj\Debug\net5.0\myfistrApp.AssemblyInfo.cs
+F:\c#\myfistrApp\obj\Debug\net5.0\myfistrApp.csproj.CoreCompileInputs.cache
+F:\c#\myfistrApp\obj\Debug\net5.0\myfistrApp.dll
+F:\c#\myfistrApp\obj\Debug\net5.0\ref\myfistrApp.dll
+F:\c#\myfistrApp\obj\Debug\net5.0\myfistrApp.pdb
+F:\c#\myfistrApp\obj\Debug\net5.0\myfistrApp.genruntimeconfig.cache
