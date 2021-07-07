@@ -1,0 +1,16 @@
+F:\c#\operators\bin\Debug\net5.0\operators.exe
+F:\c#\operators\bin\Debug\net5.0\operators.deps.json
+F:\c#\operators\bin\Debug\net5.0\operators.runtimeconfig.json
+F:\c#\operators\bin\Debug\net5.0\operators.runtimeconfig.dev.json
+F:\c#\operators\bin\Debug\net5.0\operators.dll
+F:\c#\operators\bin\Debug\net5.0\ref\operators.dll
+F:\c#\operators\bin\Debug\net5.0\operators.pdb
+F:\c#\operators\obj\Debug\net5.0\operators.csproj.AssemblyReference.cache
+F:\c#\operators\obj\Debug\net5.0\operators.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#\operators\obj\Debug\net5.0\operators.AssemblyInfoInputs.cache
+F:\c#\operators\obj\Debug\net5.0\operators.AssemblyInfo.cs
+F:\c#\operators\obj\Debug\net5.0\operators.csproj.CoreCompileInputs.cache
+F:\c#\operators\obj\Debug\net5.0\operators.dll
+F:\c#\operators\obj\Debug\net5.0\ref\operators.dll
+F:\c#\operators\obj\Debug\net5.0\operators.pdb
+F:\c#\operators\obj\Debug\net5.0\operators.genruntimeconfig.cache
